@@ -40,7 +40,7 @@ mensaje.attach(parte_html)
 # Paso el html a string
 men_final=mensaje.as_string()
 
-# Archivo adjunto (Prueba fallida?)
+# Archivo adjunto
 
 archivo='C:/Users/nicol/Desktop/Austranet (Programacion)/texto.txt'
 
